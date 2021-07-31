@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://komunitasmasjid.test/';
+	public $baseURL = 'https://komunitasmasjid21.herokuapp.com/';
 
 	/**
 	 * --------------------------------------------------------------------------
